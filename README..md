@@ -1,3 +1,6 @@
+Pack CFW
+Aquí encontrarás los packs actualizados preconfigurados para facilitar la configuración de tu Nintendo Switch. ¡Elige el que mejor se adapte a tus necesidades!
+
 ### **AtmoPack + Hekate Básico**
 
 Este es el pack de inicio para ejecutar el *Custom Firmware* (CFW) en tu Nintendo Switch. Es la opción más sencilla y completa para empezar, e incluye:
