@@ -7,7 +7,7 @@ Este es el pack de inicio para ejecutar el *Custom Firmware* (CFW) en tu Nintend
 
 * **Atmosphere v1.12.1**: Es un firmware personalizado en desarrollo para Nintendo Switch.
 * **Hekate v6.5.4**: Bootloader gráfico personalizado, parcheador de firmware y herramientas para Nintendo Switch.
-* **Awoo Installer v1.3.6**:Un instalador de **NSP, NSZ, XCI y XCZ** para que puedas instalar y ejecutar tus Apps y juegos.
+* **Awoo Installer v1.3.6**:Un instalador de **NSP, NSZ, XCI y XCZ** para que puedas instalar tus Apps y juegos.
 * **MissionControl v0.16.0**: Usa mandos de otras consolas de forma nativa en tu Nintendo Switch mediante Bluetooth. No necesitas adaptadores ni ningún otro dispositivo externo.
 * **Sys-Patch v1.6.3.0**: Un módulo de sistema similar a un script que parchea fs , es , ldr , nifm y nim durante el arranque.
 
